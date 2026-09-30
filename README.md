@@ -15,6 +15,12 @@
 
 ---
 
+## ✦ Skills demonstrated
+
+**AI automation** · n8n · agent tools · MCP · Slack/Telegram integrations · Gmail · ETL · speech-to-text/text-to-speech · workflow validation · credential-safe exports
+
+**Course progression:** packages the Week 3 n8n automation and Week 4 agent topics into importable workflows, including API integrations, ETL, multi-tool agents and MCP-based tool access.
+
 ## ✦ Workflows
 
 | # | Workflow | What it does | Key nodes | Demo |
